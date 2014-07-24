@@ -1,0 +1,38 @@
+
+src/Assets/po-framework/
+
+# Unity
+
+src/Temp/
+src/Library/
+
+# Monodevelop / Visual Studio 
+
+src/ExportedObj/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+
+# OS
+
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+# 2D Toolkit
+
+src/Assets/-tk2d
+src/Assets/-tk2d.*
+src/Assets/Resources/tk2d/*
+src/Assets/Resources/tk2d.*
